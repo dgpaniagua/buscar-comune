@@ -1,4 +1,6 @@
 library(tidyverse)
-load("rda/comunes.rda")
+load("rda/comuni.rda")
 
-comunes %>% filter(str_detect(comunes$name, regex(".a.at.....", ignore_case = TRUE)))
+comune <- "t..in."
+
+comuni %>% filter(str_detect(comuni$name, regex(comune, ignore_case = TRUE)))
