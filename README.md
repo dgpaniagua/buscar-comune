@@ -1,5 +1,7 @@
 ## Búsqueda de nombres de comunas italianas
 
+Aplicación web disponible en: https://dpaniagua.shinyapps.io/buscar-comune/
+
 ### Búsqueda de comunas utilizando expresiones regulares.
 
 En el proceso de búsqueda de la comuna de origen de nuestros antepasados, es habitual encontrar documentos en los que figura el nombre de la comuna pero que este resulta ilegible, principalmente por mala caligrafía u ortografía. Como además generalmente conocemos pocas comunas, deducir de cuál se trata es aún más difícil.
